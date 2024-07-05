@@ -1,0 +1,3 @@
+[submodule "multiplication-app"]
+	path = multiplication-app
+	url = ./multiplication-app
