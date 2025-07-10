@@ -4,7 +4,7 @@ const hours  = document.getElementById("hour");
  const seconds = document.getElementById("second")
 
 
- const birthday  = new Date("June 14, 2025 00:00:00").getTime();
+ const birthday  = new Date("June 14, 2026 00:00:00").getTime();
  console.log(birthday)
 
 updateBirthdayCountdown();
